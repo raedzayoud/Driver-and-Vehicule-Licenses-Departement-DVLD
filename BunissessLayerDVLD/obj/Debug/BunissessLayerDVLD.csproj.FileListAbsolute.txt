@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\BunissessLayerDVLD\bin\Debug\BunissessLayerDVLD.dll
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\BunissessLayerDVLD\bin\Debug\BunissessLayerDVLD.pdb
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\BunissessLayerDVLD\bin\Debug\DataAccessDVLD.dll
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\BunissessLayerDVLD\bin\Debug\DataAccessDVLD.pdb
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\BunissessLayerDVLD\obj\Debug\BunissessLayerDVLD.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\BunissessLayerDVLD\obj\Debug\BunissessLayerDVLD.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\BunissessLayerDVLD\obj\Debug\BunissessLayerDVLD.csproj.CopyComplete
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\BunissessLayerDVLD\obj\Debug\BunissessLayerDVLD.dll
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\BunissessLayerDVLD\obj\Debug\BunissessLayerDVLD.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\DataAccessDVLD\bin\Debug\DataAccessDVLD.dll
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\DataAccessDVLD\bin\Debug\DataAccessDVLD.pdb
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\DataAccessDVLD\obj\Debug\DataAccessDVLD.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\DataAccessDVLD\obj\Debug\DataAccessDVLD.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\DataAccessDVLD\obj\Debug\DataAccessDVLD.dll
+C:\Users\user\source\repos\PROJECT_DRIVERS_LICENCE\DataAccessDVLD\obj\Debug\DataAccessDVLD.pdb
