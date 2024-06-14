@@ -33,3 +33,6 @@ The application includes an admin user with default credentials for testing purp
 
 - **Username**: `raed`
 - **Password**: `1234`
+
+## ## Database Schema
+
