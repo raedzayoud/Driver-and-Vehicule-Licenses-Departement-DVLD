@@ -34,6 +34,8 @@ The application includes an admin user with default credentials for testing purp
 - **Username**: `raed`
 - **Password**: `1234`
 
-## ## Database Schema
+##  Database Schema
 ![Capture d’écran 2024-06-14 155632](https://github.com/raedzayoud/Driver-and-Vehicule-Licenses-Departement-DVLD/assets/124729087/0875bd64-696a-41b0-8c1b-c5a85acfd8ce)
+## Screenshots
+Here are some screenshots from the application:
 
