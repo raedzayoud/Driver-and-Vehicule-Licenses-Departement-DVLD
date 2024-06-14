@@ -40,6 +40,8 @@ The application includes an admin user with default credentials for testing purp
 
 Here are some screenshots from the application:
 
+![Capture d’écran 2024-06-14 181013](https://github.com/raedzayoud/Driver-and-Vehicule-Licenses-Departement-DVLD/assets/124729087/f4de9655-bae0-49cf-a3f4-c702bc0ded0f)
+--
 ![Capture d’écran 2024-06-14 183139](https://github.com/raedzayoud/Driver-and-Vehicule-Licenses-Departement-DVLD/assets/124729087/ff992f16-77ca-4783-97a2-de67fbbfa86f)
 --
 ![Capture d’écran 2024-06-14 183156](https://github.com/raedzayoud/Driver-and-Vehicule-Licenses-Departement-DVLD/assets/124729087/65e4ab84-bdaa-4c52-b841-ec826c11a4e5)
@@ -111,4 +113,7 @@ Here are some screenshots from the application:
 ![Capture d’écran 2024-06-14 184824](https://github.com/raedzayoud/Driver-and-Vehicule-Licenses-Departement-DVLD/assets/124729087/3b320052-bcf1-485c-b5b6-69a9a57734e9)
 --
 ![Capture d’écran 2024-06-14 184837](https://github.com/raedzayoud/Driver-and-Vehicule-Licenses-Departement-DVLD/assets/124729087/b86b5eb9-f97e-4da9-906e-3e2554f39663)
+
+## Contact
+For inquiries or assistance, contact the project owner at raed.zayoud.23@gmail.com.
 
